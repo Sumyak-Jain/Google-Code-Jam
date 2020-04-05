@@ -63,7 +63,6 @@ public class matrix_trace
            System.err.println(columm);
         System.out.println("Case #"+(k+1)+": "+trace+" "+row+" "+columm+" ");
        }
-       
-       
+      
 }
 }
