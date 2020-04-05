@@ -45,8 +45,10 @@ public class activity
                                          System.out.println("Case #"+(q+1)+":"+ "IMPOSSIBLE");
                                          
                                     } 
-                }
+			   }
+			else{
                           System.out.println("Case #"+(q+1)+":"+" "+res);
+			}   
 		}
         }
 	}
